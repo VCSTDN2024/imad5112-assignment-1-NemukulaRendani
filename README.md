@@ -34,5 +34,5 @@ I learnt that if one curly bracket is out of place the whole application doesnt 
 
 6. List of Figures
 -------------------
-Figure 3 APP DISPLAYING MESSAGE
-Figure 4 APP DISPLAYING ERROR MESSASGE
+Figure 1 APP DISPLAYING MESSAGE
+Figure 2 APP DISPLAYING ERROR MESSASGE
